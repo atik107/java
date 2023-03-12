@@ -60,3 +60,5 @@ gradleBuild
 # Deployment Files
 settings.xml
 pom.xml.asc
+
+ignore.txt
